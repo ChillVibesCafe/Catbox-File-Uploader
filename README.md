@@ -2,13 +2,6 @@
 
 A clean and simple desktop GUI app for uploading files to [Catbox.moe](https://catbox.moe). Built using Python and Tkinter, this app allows you to easily upload files, view upload history, and save optional notes with each upload — all in a smooth, user-friendly interface.
 
----
-
-## 🖼️ Preview
-
-*(You can add a screenshot here if you'd like)*
-
----
 
 ## ✨ Features
 
